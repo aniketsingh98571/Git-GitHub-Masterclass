@@ -1,0 +1,1 @@
+fetch pulls the changes and keeps it in local repository.
